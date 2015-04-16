@@ -21,4 +21,4 @@ Now click the character you want to look up. There are many of the same characte
 
 Each character page contains a description, information about how many books and series they've been seen in, as well as links to all their books and a wikipedia section.
 
-Thank you all and enjoy. Here is the link to the site: Here is the link: [http://shake-n-bake.herokuapp.com/](http://shake-n-bake.herokuapp.com/)
+Thank you all and enjoy. Here is the link to the site: Here is the link: [http://beechspalloon.herokuapp.com/](http://beechspalloon.herokuapp.com/)
