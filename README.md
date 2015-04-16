@@ -1,4 +1,4 @@
-# BeechSpaloon
+# [BeechSpaloon](http://beechspalloon.herokuapp.com/)
 ## Marvel Character Encyclopedia
 
 Starting in 1939 as Timely Publications, Marvel Comics has become one of the two-headed dragons of the comic book publishing age. Owning almost 34% shares of all comic book revenue, with DC at 30%, Marvel has been a household name for quite some time. With over 75 years of publication history, it seems quite easy to lose track of every character that was drawn and characterized. This app aims to solve that issue.
@@ -20,3 +20,5 @@ Now click the character you want to look up. There are many of the same characte
 ![info](/public/imgs/mahvel-info.png)
 
 Each character page contains a description, information about how many books and series they've been seen in, as well as links to all their books and a wikipedia section.
+
+Thank you all and enjoy. Here is the link to the site: Here is the link: [http://shake-n-bake.herokuapp.com/](http://shake-n-bake.herokuapp.com/)
